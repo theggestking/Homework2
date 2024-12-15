@@ -8,6 +8,8 @@ public class Test_Area {
 		//Insertion_Sort.sort(arr);
         //Selection_Sort.Sort(arr);
 		//Bubble_Sort.sort(arr);
+		//Merge_Sort.sort(arr);
+		
 	}
 
 }
