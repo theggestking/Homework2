@@ -6,7 +6,8 @@ public class Test_Area {
 		int arr[] = {5,3,70,12,-123,12};
 		
 		//Insertion_Sort.sort(arr);
-         Selection_Sort.Sort(arr);
+        //Selection_Sort.Sort(arr);
+		//Bubble_Sort.sort(arr);
 	}
 
 }
